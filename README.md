@@ -22,7 +22,8 @@ The dashboard provides detailed analysis of:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+<img width="1348" height="805" alt="image" src="https://github.com/user-attachments/assets/2f81412f-0e28-470e-aaf7-0d259744f1ca" />
+
 
 ---
 
